@@ -18,10 +18,10 @@ Anomaly detection is essential to many applications, from network security to ma
 To get started with this project, clone the repository and follow the installation instructions in the README file. You can then experiment with the sample datasets provided or use your data to train and test the models.
 # Contributing
 
-We welcome contributions! If you'd like to contribute to the project, please read the CONTRIBUTING.md file for guidelines on how to get involved. Whether it's adding new features, fixing bugs, or improving documentation, we appreciate your help.
+We welcome contributions! If you'd like to contribute to the project, please read the CONTRIBUTING.md file for guidelines on how to get involved. We appreciate your help in adding new features, fixing bugs, or improving documentation.
 
 # Contact
 
-If you have any questions or issues, feel free to open an issue on GitHub, and we'll get back to you as soon as possible.
+If you have any questions or issues, feel free to open an issue on GitHub, and we'll respond as soon as possible.
 
 Thank you for visiting the Anomaly Detection Using AI Models repository! We hope you find our tools helpful and look forward to your contributions and feedback.
