@@ -1,7 +1,7 @@
 # Anomaly Detection Using AI Models
 ![AD](https://www.algomox.com/assets/blog/ai-anomaly-detection.png)
 
-Welcome to the repository for Anomaly Detection using AI Models! This project is created to identify and solve unusual patterns in various datasets through advanced machine learning and artificial intelligence techniques.
+Welcome to the repository for Anomaly Detection using AI Models! This project is created to identify and solve unusual patterns in diverse datasets through advanced machine learning and artificial intelligence techniques.
 # Overview
 
 Anomaly detection is essential to many applications, from network security to manufacturing quality control. This repository provides tools, scripts, and examples that leverage AI models to detect anomalies in data. Our approach integrates the power of AI with robust statistical methods to offer reliable anomaly detection solutions.
