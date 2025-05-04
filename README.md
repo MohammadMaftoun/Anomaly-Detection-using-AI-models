@@ -18,7 +18,7 @@ Anomaly detection is essential to many applications, from network security to ma
 To get started with this project, clone the repository and follow the installation instructions in the README file. You can then experiment with the sample datasets provided or use your data to train and test the models.
 # Contributing
 
-We welcome contributions! If you'd like to contribute to the project, please read the CONTRIBUTING.md file for guidelines on how to get involved. We appreciate your help in adding new features, fixing bugs, or enhancing documentation.
+We welcome contributions! If you'd like to contribute to the project, please read the CONTRIBUTING.md file for guidelines on how to get involved. We appreciate your help adding new features, fixing bugs, or enhancing documentation.
 
 # Contact
 
