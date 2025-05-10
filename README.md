@@ -23,6 +23,6 @@ We welcome contributions! If you'd like to contribute to the project, please rea
 
 # Contact
 
-If you have any questions or issues, you can open an issue on GitHub, and we'll respond as soon as possible.
+If you have any questions or issues, please open an issue on GitHub, and we'll respond as soon as possible.
 
 Thank you for visiting the Anomaly Detection Using AI Models repository! We hope you find our tools helpful and look forward to your contributions and feedback.
